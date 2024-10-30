@@ -1,5 +1,7 @@
+# Kirby Consultado   DIT 2-1
 import os
 os.system('cls')
+
 print("Enter Admin ID: ")
 admin_id = input(" | ")
 
