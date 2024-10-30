@@ -27,7 +27,7 @@ print(f"Age: {info[-3]}")
 print(f"Address: {info[-2]}")
 print(f"Email: {info[-1]}")
 
-print("\nYour informations.(loop)\n")
+print("\nYour informations in loop.\n")
 ctr = 0
 for infos in info:
     print(f"{ctr + 1}. {info[ctr]}")
